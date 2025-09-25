@@ -1,4 +1,3 @@
-
 original_number = 2
 def square(number):
     return number**2
